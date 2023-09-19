@@ -23,7 +23,7 @@
 
 ### 🔖 log
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong&show_icons=true&include_all_commits=true&count_private=true&title_color=FF92BB&text_color=5C5C5C&icon_color=FF34B3)](https://github.com/changyunyeong/github-readme-stats)     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact&title_color=FF92BB&text_color=5C5C5C)](https://github.com/changyunyeong/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyunyeong&layout=compact&theme=tokyonight)
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=retrina0678)](https://solved.ac/retrina0678)  백준 티어는 나중에-->   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23003853&title_bg=%233D82AB&icon=airbnb.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
