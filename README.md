@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=YunYeong&color=024757&height=200&fontColor=A8DFF1&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&text=YunYeong&color=024757&height=200&fontColor=A8DFF1&fontSize=70)
 
 ### 🖥️ Tech Stack 🖥️
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
@@ -22,7 +22,8 @@
 <br><br>
 
 ### 🔖 log
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong&show_icons=true&include_all_commits=true&count_private=true&title_color=FF92BB&text_color=5C5C5C&icon_color=FF34B3)](https://github.com/changyunyeong/github-readme-stats)     
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong&show_icons=true&include_all_commits=true&count_private=true&title_color=FF92BB&text_color=5C5C5C&icon_color=FF34B3)](https://github.com/changyunyeong/github-readme-stats)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong&show_icons=true&theme=tokyonight)(https://github.com/changyunyeong/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyunyeong&layout=compact&theme=tokyonight)
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=retrina0678)](https://solved.ac/retrina0678)  백준 티어는 나중에-->   
