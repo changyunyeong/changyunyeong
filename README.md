@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=YunYeong&color=6DC4DB&height=200&fontColor=1E2F68&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&text=YunYeong&color=1E2F68&height=200&fontColor=6DC4DB&fontSize=70)
 
 ### 🖥️ Tech Stack 🖥️
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
