@@ -24,6 +24,7 @@
 ### 🔖 log
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong&show_icons=true&include_all_commits=true&count_private=true&title_color=FF92BB&text_color=5C5C5C&icon_color=FF34B3)](https://github.com/changyunyeong/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyunyeong&layout=compact&theme=tokyonight)
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=retrina0678)](https://solved.ac/retrina0678)  백준 티어는 나중에-->   
