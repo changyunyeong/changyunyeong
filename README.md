@@ -15,7 +15,7 @@
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"></span>
 <br><br>
 
 ### :mailbox_with_mail: Contacts
