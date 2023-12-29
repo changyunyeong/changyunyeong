@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=YunYeong&color=1E2F68&height=200&fontColor=6DC4DB&fontSize=70)
 
 ### 🖥️ Tech Stack 🖥️
-<span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></span>
 <br>
