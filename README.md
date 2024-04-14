@@ -16,6 +16,10 @@
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"></span>
+<br>
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Android Studio-34A853?style=flat&logo=Android Studio&logoColor=white"></span>
+
 <br><br>
 
 ### :mailbox_with_mail: Contacts
