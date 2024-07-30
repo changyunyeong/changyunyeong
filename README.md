@@ -27,6 +27,8 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sally0109277@naver.com)](mailto:sally01092779@naver.com)
 <br><br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=retrina0678)](https://solved.ac/retrina0678)-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangyunyeong%2Fhit-counter&count_bg=%23003853&title_bg=%233D82AB&icon=airbnb.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
