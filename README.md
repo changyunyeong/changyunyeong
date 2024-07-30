@@ -26,7 +26,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sallychang2002@gmail.com)](mailto:sallychang2002@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sally0109277@naver.com)](mailto:sally01092779@naver.com)
 <br><br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyunyeong)](https://github.com/anuraghazra/github-readme-stats)
 
 
