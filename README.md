@@ -27,6 +27,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:sally0109277@naver.com)](mailto:sally01092779@naver.com)
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changyunyeong)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changyunyeong)](https://github.com/anuraghazra/github-readme-stats)
 
 
